@@ -1,4 +1,4 @@
-<img alt="hand wave" src="./assets/HandWave.gif" width='40' align="left"/><h2><span style="font-size:1.2rem;margin:0.5rem;font-weight:100;font-style:italic;display:inline">Hey there!&nbsp;</span>[I'm Adrian](https://github.com/atorresgleza)</h2>
+<img alt="hand wave" src="./assets/HandWave.gif" width='40' align="left"/><h2>Hey there!&nbsp;[I'm Adrian](https://github.com/atorresgleza)</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
