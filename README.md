@@ -8,7 +8,7 @@
 
 👯 Open to collaborating on web development, DevOps, and automation projects. Proficient in React, Next.js, Node.js, Docker, Kubernetes, Terraform and various databases.
 
-<img alt="Night Coding" src="./assets/nigthcoding.webp" style="-webkit-filter:invert(100%) grayscale(0.6) sepia(0.5) brightness(3); filter:grayscale(0.6) sepia(0.5) brightness(3) invert(100%);" width="300" align="right"/>
+<img alt="Night Coding" src="./assets/nigthcoding.webp" width="300" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
