@@ -41,7 +41,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/2Fatgleza"><img src="https://img.shields.io/badge/-Adrian%20Torres-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:atorresgleza@gmail.com"><img src="https://img.shields.io/badge/-atorresgleza@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://x.com/Atorresgleza"><img src="https://img.shields.io/badge/-@Atorresgleza-000000?style=flat&logo=x&logoColor=white"/></a>
+<a href="https://linkedin.com/in/2Fatgleza" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Adrian%20Torres-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:atorresgleza@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-atorresgleza@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://x.com/Atorresgleza" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-@Atorresgleza-000000?style=flat&logo=x&logoColor=white"/></a>
 </p>
