@@ -1,12 +1,12 @@
 <img alt="hand wave" src="./assets/HandWave.gif" width='40' align="left"/><h2>Hey there!&nbsp;[I'm Adrian](https://github.com/atorresgleza)</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### About Me
 
-💡 I specialize in web development, encompassing UX design with intuitive interfaces. I create infrastructure using automated virtualization, orchestration, and monitoring for robust deployments, facilitating the customized development of efficient services. I maintain optimized web solutions tailored to meet specific requirements.
+💡 I specialize in web development, encompassing **UX design** with intuitive interfaces. I create infrastructure using **automated virtualization, orchestration, and monitoring** for **robust deployments**, facilitating the customized development of efficient services. I **maintain optimized** web solutions tailored to meet specific requirements.
 
 🌱 Currently expanding my expertise in Advanced DevOps practices, new front-end frameworks, enhanced backend techniques, and web performance optimization.
 
-👯 Open to collaborating on web development, DevOps, and automation projects. Proficient in React, Next.js, Node.js, Docker, Kubernetes, Terraform and various databases.
+👯 Open to collaborating on web development, DevOps, and automation projects. Proficient in **React, Next.js, Node.js, Docker, Kubernetes, Terraform** and various databases.
 
 <img alt="Night Coding" src="./assets/nigthcoding.webp" width="300" align="right"/>
 
