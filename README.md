@@ -8,6 +8,8 @@
 
 👯 Open to collaborating on web development, DevOps, and automation projects. Proficient in **React, Next.js, Node.js, Docker, Kubernetes, Terraform** and various databases.
 
+📄  Please have a look at my [**Resume**](https://atorresgleza.github.io/atorresgleza/) for more details about me. I'm open to feedback and suggestions!
+
 <img alt="Night Coding" src="./assets/nigthcoding.webp" width="300" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -41,7 +43,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/atgleza" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Adrian%20Torres-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:atorresgleza@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-atorresgleza@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://x.com/Atorresgleza" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-@Atorresgleza-000000?style=flat&logo=x&logoColor=white"/></a>
+<a href="https://atorresgleza.github.io/atorresgleza/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=googlechrome&logoColor=white"/></a>&nbsp;
+<a href="https://linkedin.com/in/atgleza" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Adrian%20Torres-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:atorresgleza@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-atorresgleza@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
+<a href="https://x.com/Atorresgleza" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-@Atorresgleza-000000?style=flat&logo=x&logoColor=white"/></a>&nbsp;
 </p>
